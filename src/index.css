@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+main p {
+  margin: 0;
+  padding: 20px 0px 0px 20px;
+}
+main input {
+  padding: 5px;
+  margin: 20px 0px 0px 20px;
+}
+
+main ul {
+  margin: 0px;
+  padding: 5px 20px;
+}
